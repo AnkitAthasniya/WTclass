@@ -1,0 +1,28 @@
+[{
+		"firstName": "Naruto",
+		"lastName": "gaara",
+		"age": 23,
+		"marks": [{
+				"english": 23
+			},
+			{
+				"math": 28
+			}
+		],
+		"address": "hyderabad"
+	},
+
+	{
+		"firstName": "ayush",
+		"lastName": "baldawa",
+		"age": 9,
+		"marks": [{
+				"english": 100
+			},
+			{
+				"math": 100
+			}
+		],
+		"address": "surya"
+	}
+]
